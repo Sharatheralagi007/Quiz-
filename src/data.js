@@ -82,5 +82,12 @@ export const data = [
         Option2: 'Local save of the code to track',
         Option3: 'To dispatch multiple actions simultaneously',
         Option4: 'To merge multiple states into one'
+    },
+    {
+        Question: 'Where is Tataelxsi?',
+        Option1: 'Remote storing of the code for tracking',
+        Option2: 'Garudacharpalya, Bangalore',
+        Option3: 'To dispatch multiple actions simultaneously',
+        Option4: 'To merge multiple states into one'
     }
 ];
