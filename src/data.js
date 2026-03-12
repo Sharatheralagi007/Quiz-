@@ -68,5 +68,12 @@ export const data = [
         Option2: 'To create a new Redux store',
         Option3: 'To dispatch multiple actions simultaneously',
         Option4: 'To merge multiple states into one'
+    },
+    {
+        Question: 'What is Git hub?',
+        Option1: 'Remote storing of the code for tracking',
+        Option2: 'To create a new Redux store',
+        Option3: 'To dispatch multiple actions simultaneously',
+        Option4: 'To merge multiple states into one'
     }
 ];
